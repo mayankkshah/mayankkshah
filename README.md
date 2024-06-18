@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mayankkshah](https://github.com/mayankkshah)
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Frontend and Web Dev**
 
 - 📫 How to reach me **mayankshah046@gmail.com**
 
