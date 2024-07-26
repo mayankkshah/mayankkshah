@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mayank Shah</h1>
-<h3 align="center">A passionate frontend developer from India, with a solid foundation in Front-end technologies, specializing in HTML, CSS, JavaScript, and SQL. Committed to continual learning and dedicated to collaborative teamwork.</h3>
+<h3 align="center">A passionate Frontend and MERN Stack Developer from India, with a solid foundation in Front-end technologies, specializing in HTML, CSS, JavaScript, and SQL. Committed to continual learning and dedicated to collaborative teamwork.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankkshah&label=Profile%20views&color=0e75b6&style=flat" alt="mayankkshah" /> </p>
 
-- 🌱 I’m currently learning **React and Data Analytics**
+- 🌱 I’m currently learning **Express JS & MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mayankkshah](https://github.com/mayankkshah)
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Frontend & Tech **
 
 - 📫 How to reach me **mayankshah046@gmail.com**
 
