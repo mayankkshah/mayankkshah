@@ -20,18 +20,6 @@ My developer background — especially building complex SQL stored procedures, E
 I am building toward roles where **developer instincts meet data at scale**, with AI integration at the core.
 
 ---
-
-## 🔥 What I Am Currently Building
-
-```python
-roadmap = {
-    "Phase 1 — Foundation":     "✅ COMPLETE  →  Python, pandas, NumPy, EDA, Data Cleaning",
-    "Phase 2 — Core Skills":    "🔄 IN PROGRESS → Power BI, Tableau, ETL, Airflow, Cloud",
-    "Phase 3 — AI Integration": "⏳ UPCOMING   → LLM Pipelines, Vector DBs, NLP Dashboards",
-    "Phase 4 — Job Ready":      "🎯 TARGET     → First Data Role"
-}
-```
-
 ---
 
 ## 📂 Data Portfolio
